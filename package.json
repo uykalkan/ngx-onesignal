@@ -70,6 +70,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1002.0",
     "@angular-devkit/build-ng-packagr": "~0.1002.0",
+    "@angular-devkit/core": "~10.2.0",
     "@angular-devkit/schematics": "~10.2.0",
     "@angular-devkit/schematics-cli": "^0.1002.0",
     "@angular/animations": "~10.2.0",
